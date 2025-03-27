@@ -1,0 +1,58 @@
+Output of DBC.py:
+DBC model with qs = 0.280 qr = 0.000 hb = 30.29 hc = 1.76 l1 = 0.702 l2 = 0.702 r = 1.000 
+Therefore w1 = 0.500
+Hydraulic conductivity parameters and R2
+Ks = 6.54e+01 p = 3.911 q = 1.984 R2 q = 0.982 R2 logK = 0.926
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.264
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.086
+Lab data contains empty strings, skipping optimization and plotting.
+
+
+Output of DVC.py:
+DVC model with qs = 0.277 qr = 0.000 w1 = 0.482 a1 = 0.0291 m1 = 0.809 m2 = 0.243 q = 1.000 
+Therefore n1 = 5.239 n2 = 1.321
+Hydraulic conductivity parameters and R2
+Ks = 5.73e+02 p = 1.689 r = 2.500 R2 q = 0.977 R2 logK = 0.946
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.205
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.094
+Lab data contains empty strings, skipping optimization and plotting.
+
+
+Output of KBC.py:
+KBC model with qs = 0.271 qr = 0.000 w1 = 0.510 hm = 33.65 sigma1 = 0.362 l2 = 0.272 r = 1.000 
+Hydraulic conductivity parameters and R2
+Ks = 2.10e+02 p = 3.813 q = 2.500 R2 q = 0.977 R2 logK = 0.942
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.205
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.095
+Lab data contains empty strings, skipping optimization and plotting.
+
+
+Output of PE.py:
+0.9763067960080983 0.9763067960080986
+PE model with qs = 0.270 qr = 0.000 w1 = 0.592 hm = 35.65 sigma1 = 0.373 he = 6300000.00 
+Hydraulic conductivity parameters and R2
+Ks = 1.31e+02 p = 0.450 a = 3.08 omega = 0.00128 R2 q = 0.976 R2 logK = 0.958
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.204
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.103
+Lab data contains empty strings, skipping optimization and plotting.
+
+
+Output of VG-Mualem.py:
+VG model with qs = 0.272 qr = 0.098 a = 0.0296 m = 0.776 q = 1.000 r = 2.000 
+Hydraulic conductivity parameters
+Ks = 1.27e+02 p = 0.348 R2 q = 0.976 R2 logK = 0.961
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.204
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.101
+Lab data contains empty strings, skipping optimization and plotting.
+
+
+Output of VGM.py:
+VG model with qs = 0.272 qr = 0.098 a = 0.0296 m = 0.776 q = 1.000 r = 2.000 
+Therefore n = 4.459
+Hydraulic conductivity parameters and R2
+Ks = 1.70e+02 p = 0.508 R2 q = 0.976 R2 logK = 0.958
+33KPa ʱ�ı��ͺ�ˮ��Ϊ 0.204
+15000KPa ʱ��ή�躬ˮ��Ϊ 0.101
+Lab data contains empty strings, skipping optimization and plotting.
+
+

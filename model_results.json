@@ -1,0 +1,34 @@
+{
+    "DBC.py": {
+        "qs": 0.28,
+        "Ks": 65.4
+    },
+    "DVC.py": {
+        "qs": 0.277,
+        "Ks": 573.0
+    },
+    "KBC.py": {
+        "qs": 0.271,
+        "Ks": 210.0
+    },
+    "PE.py": {
+        "qs": 0.27,
+        "Ks": 131.0,
+        "alpha": 3.08
+    },
+    "VG-Mualem.py": {
+        "qs": 0.272,
+        "Ks": 127.0,
+        "alpha": 0.0296
+    },
+    "VGM.py": {
+        "qs": 0.272,
+        "Ks": 170.0,
+        "alpha": 0.0296,
+        "n": 4.459
+    },
+    "average": {
+        "fitted_sat_value": null,
+        "fitted_tha_value": null
+    }
+}
