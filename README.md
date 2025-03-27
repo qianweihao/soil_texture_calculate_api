@@ -284,8 +284,4 @@ waitress-serve --port=5000 soil_texture_web_api:app
 
 ## 许可证
 
-[添加您的许可证信息]
-
-## 联系方式
-
-[添加您的联系方式] 
+[MIT-LICENSE]
